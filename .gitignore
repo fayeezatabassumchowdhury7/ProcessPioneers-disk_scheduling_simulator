@@ -1,0 +1,16 @@
+# Build output
+build/
+disksim
+*.o
+*.out
+*.exe
+
+# Debug
+*.log
+core
+
+# Editors / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
